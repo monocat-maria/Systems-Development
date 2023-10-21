@@ -17,6 +17,7 @@ You can register the products that will be auctioned and see the list of these p
 
 
 made with Java and SQL
+For the database works successfully, just change the user and the password in the class ConnectDAO line 21.
 
 Connection and Settings by,<br> 
 **Maria**
