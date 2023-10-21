@@ -4,8 +4,7 @@
  Only Java Codes:</br>
  Copy and Paste the 2 classes in the project to work properly: 
  
- 
-![5234234](https://github.com/monocat-neko/televisionApp/assets/129681589/6e90dd8f-f8f7-43fe-a4d7-8872611dd14b)
+ ![Screenshot 2023-10-21 162348](https://github.com/monocat-maria/Systems-Development/assets/129681589/b7174fb9-f17e-4b7f-a0bf-61d9b5b3241f)
  
 </br>
 made by</br>
