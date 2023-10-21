@@ -1,4 +1,4 @@
- ### TelevisionApp
+ ### 2. Television
 <p>Application that simulates a TV.</p>
  
  Only Java Codes:</br>
