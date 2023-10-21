@@ -17,8 +17,8 @@ You can register the products that will be auctioned and see the list of these p
 
 made with Java and SQL
 
-Connection and Settins by,<br> 
+Connection and Settings by,<br> 
 **Maria**
 
 Interface by,<br> 
-**DS Senac**
+**SD Senac**
