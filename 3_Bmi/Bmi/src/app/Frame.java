@@ -2,9 +2,10 @@ package app;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
+
 /**
  *
- * @author monocat-neko
+ * @author monocat-maria <github.com/monocat-maria>
  */
 public class Frame extends javax.swing.JFrame {
 
@@ -223,37 +224,37 @@ public class Frame extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
     // End of variables declaration//GEN-END:variables
-    
-    public void calc(){
+
+    public void calc() {
         Double height;
         Double weight;
         Double bmi;
         String msg;
         String bmiResult = null;
-        
+
         height = Double.parseDouble(TxHeight.getText());
         weight = Double.parseDouble(TxWeight.getText());
-        
-        bmi = weight/(height/100 * height/100);
+
+        bmi = weight / (height / 100 * height / 100);
         NumberFormat bmiF = new DecimalFormat(".#");
-        
-        if(bmi < 18.5){
+
+        if (bmi < 18.5) {
             msg = "You are very skinny.You need to gain some weight.";
             bmiResult = "" + bmiF.format(bmi);
-        }else if(bmi <24.9){
+        } else if (bmi < 24.9) {
             msg = "You are at your ideal weight.Don't need to lose weight.";
             bmiResult = "" + bmiF.format(bmi);
-        }else if(bmi < 29.9){
+        } else if (bmi < 29.9) {
             msg = "You are overweight.You need a diet to lose some weight.";
             bmiResult = "" + bmiF.format(bmi);
-        }else if(bmi < 30){
+        } else if (bmi < 30) {
             msg = "You have obesity.You need a diet, exercises and a life change.";
             bmiResult = "" + bmiF.format(bmi);
-        }else {
+        } else {
             msg = "You have morbid obesity.You need to see a doctor.";
             bmiResult = "" + bmiF.format(bmi);
         }
-        
+
         LbBmi.setText(bmiResult);
         LbResp.setText(msg);
     }
