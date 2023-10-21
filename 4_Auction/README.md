@@ -3,16 +3,17 @@ Auction system that records products and their prices and stores this informatio
 You can register the products that will be auctioned and see the list of these products, as well as sell them in the software.
 
 ## 1. Register the Product
-![1](https://github.com/monocat-neko/LeiloesApp/assets/129681589/7c271ed2-ff07-4e03-b6a8-bb914e031115)
+![Screenshot 2023-10-21 193242](https://github.com/monocat-maria/Systems-Development/assets/129681589/53335433-1e61-483c-91f2-12cd6b73b23f)
+
 
 ## 2. Store in the database
-![2](https://github.com/monocat-neko/LeiloesApp/assets/129681589/db01dbf7-4700-4396-a7f2-5739f205211b)
+![Screenshot 2023-10-21 193315](https://github.com/monocat-maria/Systems-Development/assets/129681589/4c026bc6-ef97-4b2f-a2b3-2e4a9bc655f4)
 
 ## 3. List of Products to Sell
-![3](https://github.com/monocat-neko/LeiloesApp/assets/129681589/acb979db-7540-43b0-80b0-4549b7cac01a)
+![Screenshot 2023-10-21 194128](https://github.com/monocat-maria/Systems-Development/assets/129681589/91c0f05a-01ef-4f90-a8b9-0cd8e8112936)
 
 ## 3. List of Products Sold
-![Screenshot 2023-07-27 153855](https://github.com/monocat-neko/LeiloesApp/assets/129681589/874b45f0-9162-40c2-b3e9-087669629f8f)
+![Screenshot 2023-10-21 194242](https://github.com/monocat-maria/Systems-Development/assets/129681589/cc41d629-0cb8-4618-9fea-5bd40aae678a)
 
 
 made with Java and SQL
