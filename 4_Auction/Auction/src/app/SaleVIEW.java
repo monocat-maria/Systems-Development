@@ -35,7 +35,7 @@ public class SaleVIEW extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel3.setFont(new java.awt.Font("Lucida Fax", 0, 18)); // NOI18N
-        jLabel3.setText("Produtos Vendidos");
+        jLabel3.setText("Products Sold");
 
         listProductsSold.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
@@ -45,12 +45,12 @@ public class SaleVIEW extends javax.swing.JFrame {
                 {null, null, null, null}
             },
             new String [] {
-                "ID", "Produto", "Valor", "Status"
+                "ID", "Product", "Price", "Status"
             }
         ));
         jScrollPane3.setViewportView(listProductsSold);
 
-        btnBackSales.setText("Voltar");
+        btnBackSales.setText("Back");
         btnBackSales.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnBackSalesActionPerformed(evt);
@@ -63,17 +63,16 @@ public class SaleVIEW extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGap(47, 47, 47)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                        .addComponent(jLabel3)
-                        .addGap(194, 194, 194))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                        .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addContainerGap(49, Short.MAX_VALUE))))
+                .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(49, Short.MAX_VALUE))
             .addGroup(layout.createSequentialGroup()
                 .addGap(96, 96, 96)
                 .addComponent(btnBackSales)
                 .addGap(0, 0, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel3)
+                .addGap(214, 214, 214))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
