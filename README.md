@@ -19,8 +19,6 @@
  
  ![Screenshot 2023-10-21 162636](https://github.com/monocat-maria/Systems-Development/assets/129681589/145a0a94-747f-467c-baa5-d7781e1a4a7f)
 
-)
-
 Well done!
 
 # 4. Auction Software
