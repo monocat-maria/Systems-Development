@@ -1,28 +1,25 @@
  # 1. Calculator
  <p>A basic Calculator that calculates 2 values with addition, subtraction, multiplication and division operators.</p>
 
-![5532](https://github.com/monocat-neko/calculatorApp/assets/129681589/5e357096-c203-417a-be2f-5306fe616e5c)
-
-<p> Copy and Paste the 2 classes to operate properly.</p>
+![Screenshot 2023-10-21 161839](https://github.com/monocat-maria/Systems-Development/assets/129681589/74dac75a-990f-4a63-bfc7-ac44711dc8cf)
 
  # 2. Television
 <p>Application that simulates a TV.</p>
  
- Only Java Codes:</br>
- Copy and Paste the 2 classes in the project to work properly: 
- 
- 
-![5234234](https://github.com/monocat-neko/televisionApp/assets/129681589/6e90dd8f-f8f7-43fe-a4d7-8872611dd14b)
+ ![Screenshot 2023-10-21 162348](https://github.com/monocat-maria/Systems-Development/assets/129681589/d8ad4883-1120-4a4d-a7ed-60cd3144d95d)
  
 # 3. BmiApp
  A graphic IMC application that uses Java Swing
 
  ### Interface
-![1](https://github.com/monocat-neko/BmiApp/assets/129681589/ed5c2c1c-59b2-41ee-b40d-c73104201d92)
+ 
+![Screenshot 2023-10-21 162526](https://github.com/monocat-maria/Systems-Development/assets/129681589/9d515510-098d-4d42-96b1-cc506fc9e890)
 
  ### Type your weight and height
  
-![2](https://github.com/monocat-neko/BmiApp/assets/129681589/11e2bd11-955e-43b0-a76c-92b47d9b2d51)
+ ![Screenshot 2023-10-21 162636](https://github.com/monocat-maria/Systems-Development/assets/129681589/145a0a94-747f-467c-baa5-d7781e1a4a7f)
+
+)
 
 Well done!
 
